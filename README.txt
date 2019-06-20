@@ -1,5 +1,5 @@
 XStatic-JS-Yaml
---------------
+---------------
 
 JS Yaml JavaScript library packaged for setuptools (easy_install) / pip.
 
