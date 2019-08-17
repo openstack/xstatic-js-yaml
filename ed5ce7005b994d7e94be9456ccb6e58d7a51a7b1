@@ -1,0 +1,9 @@
+Code-Review+2: Radomir Dopieralski <openstack@sheep.art.pl>
+Code-Review+2: Akihiro Motoki <amotoki@gmail.com>
+Workflow+1: Akihiro Motoki <amotoki@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Sat, 17 Aug 2019 13:02:56 +0000
+Reviewed-on: https://review.opendev.org/666593
+Project: openstack/xstatic-js-yaml
+Branch: refs/heads/master
